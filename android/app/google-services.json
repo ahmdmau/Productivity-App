@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408501835828",
+    "project_id": "productivityapp-83561",
+    "storage_bucket": "productivityapp-83561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408501835828:android:1a96ef0c36036bb1bf9261",
+        "android_client_info": {
+          "package_name": "com.ummi.productivity_app.productivity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408501835828-blof7o77pkcjbstk9kgcq22ip7hlllti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ummi.productivity_app.productivity_app",
+            "certificate_hash": "b0d863154af5c986e28b8d6ba32ceb5d4b8bf4ac"
+          }
+        },
+        {
+          "client_id": "408501835828-oq7ma192em863p4trulrrkp5hqb3d07u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyV2wE5aB1G11QwrWzQSHs5X56NpBcyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408501835828-oq7ma192em863p4trulrrkp5hqb3d07u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
